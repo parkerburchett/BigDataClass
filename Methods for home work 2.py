@@ -8,6 +8,4 @@ def prob1():
     for v in values:
         print(v)
 
-def sim_expected_number_of_ones():
-    
 
